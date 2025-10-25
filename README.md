@@ -80,13 +80,13 @@ This section provides simple instructions on how a new user can start tracking e
 Visually demonstrating your project helps users understand its interface and functionality instantly.
 
 ### Main Expense List View
-`![Screenshot of the Main Expense List](assets/expenses.png)`
+![Screenshot of the Main Expense List](assets/expenses.png)
 
 ### Add New Expense Form
-`![Screenshot of the Add New Expense Form](assets/add.png)`
+![Screenshot of the Add New Expense Form](assets/add.png)
 
 ### **Category List View**
-`![Screenshot of the Add New Expense Form](assets/category.png)`
+![Screenshot of the Add New Expense Form](assets/category.png)
 
 ### Contributors 
 *Arianne Therese S. Amparo (4B)* ---
