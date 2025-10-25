@@ -1,34 +1,39 @@
-# 💰 Expenses Tracker System
+# 💰 Expenses Tracker System  
+### 🧾 Midterm Project – Expenses Tracker  
+**By:** *Arianne Therese S. Amparo (4B)*  
+
+---
+
+## 🏷️ Project Title
+**Expenses Tracker System**
+
+---
 
 ## 📘 Description / Overview
-The **Expenses Tracker System** is a simple yet efficient application designed to help users record and monitor their daily spending. It aims to provide users with a clear overview of their financial habits through organized data and summaries. This project was developed as part of the midterm examination to demonstrate proficiency in version control using Git and GitHub.
+The **Expenses Tracker System** is a web-based application that allows users to easily record, manage, and analyze their daily spending. It provides a simple and organized way to categorize expenses, view totals, and manage records.  
+
+This project was developed as part of the **Midterm Examination**, focusing on applying Git and GitHub for version control, collaboration, and Markdown documentation. The system helps users improve financial awareness by keeping track of where their money goes.
 
 ---
 
 ## 🎯 Objectives
-- To apply Git and GitHub in managing and collaborating on a software project.  
-- To develop a system that helps users keep track of their expenses.  
-- To demonstrate proper documentation using Markdown.  
-- To enhance financial awareness and responsibility through digital tracking.  
+The main objectives of this project are:
+- To apply Git and GitHub for software version control and collaboration.  
+- To develop a simple CRUD-based system for tracking personal expenses.  
+- To implement a clean, user-friendly interface for managing financial data.  
+- To practice proper project documentation using Markdown.  
 
 ---
 
 ## ⚙️ Features / Functionality
-- **Add Expense:** Record expense details such as date, category, and amount.  
-- **Edit & Delete Expense:** Modify or remove existing entries.  
-- **Expense Summary:** Display total spending and category breakdowns.  
-- **Data Storage:** Keep records stored for future sessions.  
-- **Simple Interface:** Easy-to-navigate design suitable for all users.  
+The Expenses Tracker System includes the following features:
 
----
+| Feature | Description |
+|----------|-------------|
+| 💵 **Add Expense** | Create a new expense record by entering a title, category, amount, date, and description. |
+| ✏️ **Edit Expense** | Update existing expense information as needed. |
+| ❌ **Delete Expense** | Remove an expense record from the list. |
+| 📁 **Expense Categories** | Add, view, edit, or delete spending categories like “Food,” “Transportation,” or “Education.” |
+| 📊 **Expense Summary** | View the total amount spent and track how funds are allocated across categories. |
+| 🖥️ **User-Friendly Interface** | Sidebar navigation and responsive layout for easy access. |
 
-## 🧩 Installation Instructions
-Follow these steps to set up and run the project:
-
-1. **Create or open your GitHub repository.**
-   - Go to [GitHub](https://github.com) and log in to your account.  
-   - Create a new repository named `expenses-tracker`.
-
-2. **Clone the repository to your local computer.**
-   ```bash
-   git clone https://github.com/<your-username>/expenses-tracker.git
