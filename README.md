@@ -8,9 +8,6 @@
 The **Expenses Tracker System** is a simple yet effective web-based application that helps users record, manage, and analyze their daily expenses.  
 It provides an organized platform to categorize spending, monitor totals, and review financial summaries with ease.
 
-This project was developed as part of the **Midterm Examination**, focusing on **Git**, **GitHub collaboration**, and **Markdown documentation**.  
-It aims to promote financial awareness by giving users insights into where their money goes.
-
 ---
 
 ## 🎯 Objectives
@@ -42,11 +39,11 @@ This section explains how to get the project running on a local machine.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/yourusername/expenses-tracker-system.git](https://github.com/yourusername/expenses-tracker-system.git)
+    git clone [https://github.com/yourusername/expenses-tracker.git](https://github.com/yourusername/expenses-tracker.git)
     ```
 2.  **Navigate to the project directory:**
     ```bash
-    cd expenses-tracker-system
+    cd expenses-tracker
     ```
 3.  **Install dependencies (if applicable):**
     *Replace with your specific command, e.g., 'npm install' or 'pip install -r requirements.txt'*
@@ -94,4 +91,4 @@ Visually demonstrating your project helps users understand its interface and fun
 ![Screenshot of the Add New Expense Form](assets/category.png)
 
 ### Contributors 
-*Arianne Therese S. Amparo (4B)* ---
+*Arianne Therese S. Amparo (4B)* 
