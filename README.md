@@ -1,5 +1,5 @@
 <h1 align="center">💰 <b>Expenses Tracker System</b></h1>
-<h3 align="center">🧾 Midterm Project — Expenses Tracker by <b>Arianne Therese S. Amparo (4B)</b></h3>
+
 
 ---
 
