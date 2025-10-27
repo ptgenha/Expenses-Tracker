@@ -88,7 +88,7 @@ Visually demonstrating your project helps users understand its interface and fun
 ![Screenshot of the Add New Expense Form](assets/add.png)
 
 ### **Category List View**
-![Screenshot of the Add New Expense Form](assets/category.png)
+![Screenshot of the Category Form](assets/category.png)
 
 ### Contributors 
 *Arianne Therese S. Amparo (4B)* 
