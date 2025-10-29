@@ -3,21 +3,21 @@
 
 ---
 
-## 📘 Overview
+##  Overview
 
 The **Expenses Tracker System** is a simple yet effective web-based application that helps users record, manage, and analyze their daily expenses.  
 It provides an organized platform to categorize spending, monitor totals, and review financial summaries with ease.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 The main objectives of this project are:
 
-- 📁 To apply **Git and GitHub** for version control and collaboration.
-- 💻 To develop a **CRUD-based system** for tracking personal expenses.
-- 🧭 To design a **user-friendly interface** for managing financial data.
-- 📝 To demonstrate proper project documentation using **Markdown**.
+- To apply **Git and GitHub** for version control and collaboration.
+- To develop a **CRUD-based system** for tracking personal expenses.
+- To design a **user-friendly interface** for managing financial data.
+- To demonstrate proper project documentation using **Markdown**.
 
 ---
 
@@ -25,16 +25,16 @@ The main objectives of this project are:
 
 | Feature | Description |
 |----------|-------------|
-| 💵 **Add Expense** | Create a new expense record by entering a title, category, amount, date, and description. |
-| ✏️ **Edit Expense** | Update existing expense information as needed. |
-| ❌ **Delete Expense** | Remove an expense record from the list. |
-| 📁 **Expense Categories** | Manage categories such as “Food,” “Transportation,” and “Education.” |
-| 📊 **Expense Summary** | View total spending and analyze how funds are distributed across categories. |
-| 🖥️ **User-Friendly Interface** | Simple navigation and responsive design for easy use. |
+|  **Add Expense** | Create a new expense record by entering a title, category, amount, date, and description. |
+|  **Edit Expense** | Update existing expense information as needed. |
+|  **Delete Expense** | Remove an expense record from the list. |
+|  **Expense Categories** | Manage categories such as “Food,” “Transportation,” and “Education.” |
+|  **Expense Summary** | View total spending and analyze how funds are distributed across categories. |
+|  **User-Friendly Interface** | Simple navigation and responsive design for easy use. |
 
 ---
 
-## 💾 Installation Instructions
+## Installation Instructions
 This section explains how to get the project running on a local machine.
 
 1.  **Clone the repository:**
@@ -63,7 +63,7 @@ This section explains how to get the project running on a local machine.
 
 ---
 
-## 🚀 Usage
+## Usage
 This section provides simple instructions on how a new user can start tracking expenses.
 
 1.  **Adding an Expense:**
